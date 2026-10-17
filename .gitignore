@@ -1,0 +1,8 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Archivos de compilación
+[Bb]in/
+[Oo]bj/
